@@ -3,7 +3,7 @@
 </p>
 
 ## Oi! Sou o Leonardo 👋:
-🗂 Atualmente estudando SpringBoot e Apache Kafka.<br>
+🗂 Atualmente estudando SpringBoot e Python.<br>
 📓 Cursando Bacharelado em Ciência da Computação - USJT<br>
 🔍 Apaixonado por Matemática e programação
 
