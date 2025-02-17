@@ -5,7 +5,8 @@
 ## Oi! Sou o Leonardo 👋:
 🗂 Atualmente estudando SpringBoot e Python.<br>
 📓 Cursando Bacharelado em Ciência da Computação - USJT<br>
-🔍 Apaixonado por Matemática e programação
+🔍 Apaixonado por Matemática e programação<br>
+📧 leonardoornelas1707@gmail.com
 
 ## Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
